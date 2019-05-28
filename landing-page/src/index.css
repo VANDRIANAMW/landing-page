@@ -27,6 +27,11 @@ nav a {
 
 .jumbotron {
   padding:   4rem 2rem;
+  text-align: justify;
+
+}
+.mb-4, .my-4 {
+    margin-bottom: 1.5rem!important;
 }
 footer {
  background: black;
