@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+
   max-width: auto;
 }
 
@@ -18,15 +18,21 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  text-align: left;
 }
 
 .App-link {
   color: #61dafb;
 }
 
-jumbotron .my-4 {
-    margin-bottom: 1.5rem;
-    margin-top: 1.5rem;
+
+.jumbotron {
+    margin: 8rem;
+
+}
+
+.navbar {
+    position: relative;
 }
 
 @keyframes App-logo-spin {
