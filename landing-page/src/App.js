@@ -1,16 +1,16 @@
 import React from 'react';
 import './App.css';
-import navbar from './components/navbar';
-import jumbotron from './components/jumbotron';
 import Footer from './components/footer';
+import Navbar from './components/navbar';
+import Jumbotron from './components/jumbotron';
 
 
 function App() {
   return (
     <div className="App">
-       <navbar/>
-       <jumbotron/>
-      <Footer/>
+       <Navbar/>
+       <Jumbotron/>
+      <Footer />
     </div>
   );
 }
