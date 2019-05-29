@@ -14,28 +14,4 @@ code {
     monospace;
 }
 
-nav {
-  background:  #343a40;
-  color: white;
-  display: flex;
-}
 
-nav a {
-    color: white;
-    text-decoration: none;
-}
-
-.jumbotron {
-  padding:   4rem 2rem;
-  text-align: justify;
-
-}
-.mb-4, .my-4 {
-    margin-bottom: 1.5rem!important;
-}
-footer {
- background: black;
- color: white;
- text-align: center;
- height: auto;
-}
