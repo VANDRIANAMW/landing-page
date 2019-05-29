@@ -10,8 +10,9 @@ function App() {
     <div className="App">
        <Navbar />
        <Jumbotron />
-       <Footer />
        <Paginas />
+       <Footer />
+
     </div>
   )
 }

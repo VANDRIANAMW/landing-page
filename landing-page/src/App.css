@@ -25,7 +25,13 @@
   color: #61dafb;
 }
 
-
+#cartita {
+    margin:6rem;
+    margin-top: 0px!important;
+    margin-bottom: 0px!important;
+        padding-right: 15px;
+    padding-left: 15px;
+}
 .jumbotron {
     margin: 8rem;
 
