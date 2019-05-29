@@ -1,6 +1,10 @@
 import React from 'react';
 import './App.css';
+import navbar from './components/navbar';
+import jumbotron from './components/jumbotron';
+import Footer from './components/footer';
 
+<<<<<<< HEAD
 function Navbar (){
     return (
 
@@ -51,12 +55,14 @@ function Footer(){
   </footer>
     );
 }
+=======
+>>>>>>> a512186e5f0e96c01fdf1b55f321cb38f07cad01
 
 function App() {
   return (
     <div className="App">
-       <Navbar/>
-       <Jumbotron/>
+       <navbar/>
+       <jumbotron/>
       <Footer/>
     </div>
   );
