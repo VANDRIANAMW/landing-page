@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  max-width: auto;
 }
 
 .App-logo {
@@ -21,6 +22,11 @@
 
 .App-link {
   color: #61dafb;
+}
+
+jumbotron .my-4 {
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
 }
 
 @keyframes App-logo-spin {
